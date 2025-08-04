@@ -7,6 +7,6 @@ project ini dibuat dengan menggunakan tech stack:
 
 <h4>FRONTEND</h4>
 <ul>
-      <li><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"> <p> sebagai base page agar bisa SPA</p></li>
+      <li><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"> sebagai base page agar bisa SPA</li>
       
 </ul>
