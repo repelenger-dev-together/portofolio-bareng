@@ -1,5 +1,5 @@
 
-<h1> Portofolio seseorang 📑 </h1>
+<h1 align="center"> Portofolio seseorang 📑 </h1>
 
 <p>welcome welcome, tujuan repo ini dibuat untuk menampung portofolio hasil kerja sama dan menampilkan repo repo masing masing</p>
 
