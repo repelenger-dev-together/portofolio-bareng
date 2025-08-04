@@ -2,6 +2,8 @@
 <h1 align="center"> Portofolio seseorang 📑 </h1>
 
 <p>welcome welcome, tujuan repo ini dibuat untuk menampung portofolio hasil kerja sama dan menampilkan repo repo masing masing, sebagai latihan dan menambahkan pengalaman</p>
+<p align="center"> Contributor:</p>
+<p align="center"> DFNero</p>
 
 <hr>
 project ini dibuat dengan menggunakan tech stack:
