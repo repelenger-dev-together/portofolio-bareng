@@ -15,6 +15,16 @@ project ini dibuat dengan menggunakan tech stack:
       <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> menambahkan sedikit vanilla js </li>
 </ul>
 
+<h4>BACKEND</h4>
+<ul>
+      <li><img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"> untuk memunculkan data data tentang diri</li>
+      <li><img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"> untuk framework nya PHP</li>
+</ul>
+
+<h4>TOOL</h4>
+<ul>
+      <li><img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"></li>
+      <li><img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff"></li>
+</ul>
 
 
-<img src="">
